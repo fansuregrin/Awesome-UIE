@@ -1,0 +1,36 @@
+# Awesome Underwater Image Enhancement (UIE) Methods
+
+A curated list of Underwater Image Enhancement (UIE) papers and resources, inspired by [Awesome-Inpainting-Tech](https://github.com/zengyh1900/Awesome-Image-Inpainting).
+
+This `README.md` is automatically generated from [`.dev_scripts/collection.csv`](.dev_scripts/collection.csv). 
+
+We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md` from CSV file or vice versa. 
+
+Welcome to pull request to update or correct this collection. 🥰
+## Year 2023
+- **TCSVT** (Traditional) [A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/9895452).
+- **SPL** (Traditional) [Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement](https://ieeexplore.ieee.org/document/10065491). [[code]](https://github.com/Li-Chongyi/PCDE) 
+## Year 2022
+- **TIP** (Traditional) [Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement](https://ieeexplore.ieee.org/document/9788535). [[code]](https://github.com/Li-Chongyi/MMLE_code)  [[project]](https://li-chongyi.github.io/proj_MMLE) 
+- **TIP** (Traditional) [Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors](https://ieeexplore.ieee.org/document/9854113). [[code]](https://github.com/zhuangpeixian/HLRP) 
+- **JOE** (Traditional) [Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement](https://ieeexplore.ieee.org/document/9744022). [[code]](https://github.com/Li-Chongyi/JOE2021_ACDC) 
+## Year 2021
+- **TPAMI** (Traditional) [Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset](https://ieeexplore.ieee.org/document/9020130).
+- **TIP** (Traditional) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
+## Year 2020
+- **TIP** (CNN) [An Underwater Image Enhancement Benchmark Dataset and Beyond](https://ieeexplore.ieee.org/document/8917818). [[code]](https://github.com/Li-Chongyi/Water-Net_Code)  [[project]](https://li-chongyi.github.io/proj_benchmark.html) 
+- **RA-L** (GAN) [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231). [[code]](https://github.com/xahidbuffon/FUnIE-GAN)  [[project]](https://experts.umn.edu/en/publications/fast-underwater-image-enhancement-for-improved-visual-perception) 
+- **PR** (CNN) [Underwater scene prior inspired deep underwater image and video enhancement](https://www.sciencedirect.com/science/article/pii/S0031320319303401). [[code]](https://github.com/saeed-anwar/UWCNN)  [[project]](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) 
+## Year 2019
+- **CVPRW** (CNN) [ll-In-One Underwater Image Enhancement using Domain-Adversarial Learning](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UG2+%20Prize%20Challenge/Uplavikar_All-in-One_Underwater_Image_Enhancement_Using_Domain-Adversarial_Learning_CVPRW_2019_paper.pdf). [[code]](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning) 
+- **CVPR** (Traditional) [Sea-thru: A Method For Removing Water From Underwater Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf). [[code]](https://github.com/hainh/sea-thru)  [[project]](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
+## Year 2018
+- **SPL** (GAN) [Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer](https://ieeexplore.ieee.org/document/8253820). [[project]](https://li-chongyi.github.io/proj_Emerging_water.html) 
+- **ICRA** (GAN) [Enhancing Underwater Imagery Using Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8460552). [[code]](https://github.com/IRVLab/UGAN)  [[project]](https://irvlab.cs.umn.edu/underwater-image-restoration) 
+## Year 2017
+- **PRL** (Traditional) [A hybrid method for underwater image correction](https://www.sciencedirect.com/science/article/pii/S016786551730171X).
+## Year 2016
+- **TIP** (Traditional) [Underwater Image Enhancement by Dehazing with Minimum Information Loss and Histogram Distribution Prior](https://ieeexplore.ieee.org/document/7574330). [[code]](https://github.com/Li-Chongyi/TIP2016-code) 
+- **ICIP** (Traditional) [Underwater image restoration based on minimum information loss principle and optical properties of underwater imaging](https://ieeexplore.ieee.org/document/7532707).
+## Year 2015
+- **JVCIR** (Traditional) [Automatic Red-Channel underwater image restoration](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html). [[code]](https://github.com/agaldran/UnderWater) 
