@@ -1,10 +1,12 @@
 Year,Pub,Type,Title,URL,Code,Project
+2012,TIP,Traditional,Underwater Image Enhancement by Wavelength Compensation and Dehazing,https://ieeexplore.ieee.org/document/6104148,,
 2015,JVCIR,Traditional,Automatic Red-Channel underwater image restoration,https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html,https://github.com/agaldran/UnderWater,
 2016,TIP,Traditional,Underwater Image Enhancement by Dehazing with Minimum Information Loss and Histogram Distribution Prior,https://ieeexplore.ieee.org/document/7574330,https://github.com/Li-Chongyi/TIP2016-code,
 2016,ICIP,Traditional,Underwater image restoration based on minimum information loss principle and optical properties of underwater imaging,https://ieeexplore.ieee.org/document/7532707,,
 2017,PRL,Traditional,A hybrid method for underwater image correction,https://www.sciencedirect.com/science/article/pii/S016786551730171X,,
 2018,ICRA,GAN,Enhancing Underwater Imagery Using Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8460552,https://github.com/IRVLab/UGAN,https://irvlab.cs.umn.edu/underwater-image-restoration
 2018,SPL,GAN,Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer,https://ieeexplore.ieee.org/document/8253820,,https://li-chongyi.github.io/proj_Emerging_water.html
+2018,RA-L,GAN,WaterGAN: Unsupervised Generative Network to Enable Real-Time Color Correction of Monocular Underwater Images,https://ieeexplore.ieee.org/document/7995024,https://github.com/kskin/WaterGAN,
 2019,CVPR,Traditional,Sea-thru: A Method For Removing Water From Underwater Images,https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf,https://github.com/hainh/sea-thru,https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html
 2019,CVPRW,CNN,ll-In-One Underwater Image Enhancement using Domain-Adversarial Learning,https://openaccess.thecvf.com/content_CVPRW_2019/papers/UG2+%20Prize%20Challenge/Uplavikar_All-in-One_Underwater_Image_Enhancement_Using_Domain-Adversarial_Learning_CVPRW_2019_paper.pdf,https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning,
 2020,TIP,CNN,An Underwater Image Enhancement Benchmark Dataset and Beyond,https://ieeexplore.ieee.org/document/8917818,https://github.com/Li-Chongyi/Water-Net_Code,https://li-chongyi.github.io/proj_benchmark.html
@@ -15,5 +17,10 @@ Year,Pub,Type,Title,URL,Code,Project
 2022,TIP,Traditional,Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement,https://ieeexplore.ieee.org/document/9788535,https://github.com/Li-Chongyi/MMLE_code,https://li-chongyi.github.io/proj_MMLE
 2022,TIP,Traditional,Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors,https://ieeexplore.ieee.org/document/9854113,https://github.com/zhuangpeixian/HLRP,
 2022,JOE,Traditional,Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement,https://ieeexplore.ieee.org/document/9744022,https://github.com/Li-Chongyi/JOE2021_ACDC,
+2022,TMM,CNN,Underwater Image Enhancement With Lightweight Cascaded Network,https://ieeexplore.ieee.org/document/9547730,,
+2022,AAAI,CNN,Unsupervised Underwater Image Restoration: From a Homology Perspective,https://ojs.aaai.org/index.php/AAAI/article/view/19944,https://github.com/zhenqifu/USUIR,
+2022,ECCV,CNN,Uncertainty Inspired Underwater Image Enhancement,https://dl.acm.org/doi/abs/10.1007/978-3-031-19797-0_27,https://github.com/zhenqifu/PUIE-Net,
+2022,TIP,CNN,SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception,https://ieeexplore.ieee.org/document/9930878,https://github.com/trentqq/SGUIE-Net_Simple,https://trentqq.github.io/SGUIE-Net.html
 2023,TCSVT,Traditional,A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/9895452,,
 2023,SPL,Traditional,Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement,https://ieeexplore.ieee.org/document/10065491,https://github.com/Li-Chongyi/PCDE,
+2023,JVCIR,DDPM,Underwater image enhancement method based on denoising diffusion probabilistic model,https://www.sciencedirect.com/science/article/pii/S1047320323001761,,
