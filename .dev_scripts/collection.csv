@@ -24,7 +24,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2022,AAAI,CNN,Unsupervised Underwater Image Restoration: From a Homology Perspective,https://ojs.aaai.org/index.php/AAAI/article/view/19944,https://github.com/zhenqifu/USUIR,
 2022,ECCV,CNN,Uncertainty Inspired Underwater Image Enhancement,https://dl.acm.org/doi/abs/10.1007/978-3-031-19797-0_27,https://github.com/zhenqifu/PUIE-Net,
 2022,TIP,CNN,SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception,https://ieeexplore.ieee.org/document/9930878,https://github.com/trentqq/SGUIE-Net_Simple,https://trentqq.github.io/SGUIE-Net.html
-2022,TIP,GAN,Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond,https://github.com/Jzy2017/TACL,
+2022,TIP,GAN,Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond,https://github.com/Jzy2017/TACL,,
 2023,TCSVT,Traditional,A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/9895452,,
 2023,SPL,Traditional,Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement,https://ieeexplore.ieee.org/document/10065491,https://github.com/Li-Chongyi/PCDE,
 2023,JVCIR,DDPM,Underwater image enhancement method based on denoising diffusion probabilistic model,https://www.sciencedirect.com/science/article/pii/S1047320323001761,,
