@@ -22,6 +22,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TIP** (GAN) [Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond](https://github.com/Jzy2017/TACL).
 - **TIP** (CNN) [SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception](https://ieeexplore.ieee.org/document/9930878). [[code]](https://github.com/trentqq/SGUIE-Net_Simple)  [[project]](https://trentqq.github.io/SGUIE-Net.html) 
 - **JOE** (Traditional) [Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement](https://ieeexplore.ieee.org/document/9744022). [[code]](https://github.com/Li-Chongyi/JOE2021_ACDC) 
+- **Frontiers in Marine Science** (CNN) [Lighting the darkness in the sea: A deep learning model for underwater image enhancement](https://www.frontiersin.org/articles/10.3389/fmars.2022.921492/full). [[code]](https://github.com/yuxiao17/LDS-Net) 
 - **ECCV** (CNN) [Uncertainty Inspired Underwater Image Enhancement](https://dl.acm.org/doi/abs/10.1007/978-3-031-19797-0_27). [[code]](https://github.com/zhenqifu/PUIE-Net) 
 - **AAAI** (CNN) [Unsupervised Underwater Image Restoration: From a Homology Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/19944). [[code]](https://github.com/zhenqifu/USUIR) 
 ## Year 2021
