@@ -6,7 +6,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2016,ICIP,Traditional,Underwater image restoration based on minimum information loss principle and optical properties of underwater imaging,https://ieeexplore.ieee.org/document/7532707,,
 2017,PRL,Traditional,A hybrid method for underwater image correction,https://www.sciencedirect.com/science/article/pii/S016786551730171X,,
 2018,ICRA,GAN,Enhancing Underwater Imagery Using Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8460552,https://github.com/IRVLab/UGAN,https://irvlab.cs.umn.edu/underwater-image-restoration
-2018,SPL,GAN,Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer,https://ieeexplore.ieee.org/document/8253820,,https://li-chongyi.github.io/proj_Emerging_water.html
+2018,SPL,GAN,Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer,https://ieeexplore.ieee.org/document/8253820,https://github.com/djjandXMU/CycleGAN-and-modification,https://li-chongyi.github.io/proj_Emerging_water.html
 2018,RA-L,GAN,WaterGAN: Unsupervised Generative Network to Enable Real-Time Color Correction of Monocular Underwater Images,https://ieeexplore.ieee.org/document/7995024,https://github.com/kskin/WaterGAN,
 2018,TIP,Traditional,Color Balance and Fusion for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/8058463,https://github.com/bilityniu/underimage-fusion-enhancement,
 2019,CVPR,Traditional,Sea-thru: A Method For Removing Water From Underwater Images,https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf,https://github.com/hainh/sea-thru,https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html
