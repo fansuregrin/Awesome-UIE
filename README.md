@@ -40,6 +40,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **CVPRW** (CNN) [All-In-One Underwater Image Enhancement using Domain-Adversarial Learning](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UG2+%20Prize%20Challenge/Uplavikar_All-in-One_Underwater_Image_Enhancement_Using_Domain-Adversarial_Learning_CVPRW_2019_paper.pdf). [[code]](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning) 
 - **CVPR** (Traditional) [Sea-thru: A Method For Removing Water From Underwater Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf). [[code]](https://github.com/hainh/sea-thru)  [[project]](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
 ## Year 2018
+- **TIP** (Traditional) [Color Balance and Fusion for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/8058463). [[code]](https://github.com/bilityniu/underimage-fusion-enhancement) 
 - **SPL** (GAN) [Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer](https://ieeexplore.ieee.org/document/8253820). [[project]](https://li-chongyi.github.io/proj_Emerging_water.html) 
 - **RA-L** (GAN) [WaterGAN: Unsupervised Generative Network to Enable Real-Time Color Correction of Monocular Underwater Images](https://ieeexplore.ieee.org/document/7995024). [[code]](https://github.com/kskin/WaterGAN) 
 - **ICRA** (GAN) [Enhancing Underwater Imagery Using Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8460552). [[code]](https://github.com/IRVLab/UGAN)  [[project]](https://irvlab.cs.umn.edu/underwater-image-restoration) 
@@ -52,3 +53,4 @@ Welcome to pull request to update or correct this collection. 🥰
 - **JVCIR** (Traditional) [Automatic Red-Channel underwater image restoration](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html). [[code]](https://github.com/agaldran/UnderWater) 
 ## Year 2012
 - **TIP** (Traditional) [Underwater Image Enhancement by Wavelength Compensation and Dehazing](https://ieeexplore.ieee.org/document/6104148).
+- **CVPR** (Traditional) [Enhancing Underwater Images and Videos by Fusion](https://ieeexplore.ieee.org/document/6247661). [[code]](https://github.com/bilityniu/underwater_image_fusion) 

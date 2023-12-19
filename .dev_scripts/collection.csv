@@ -1,5 +1,6 @@
 Year,Pub,Type,Title,URL,Code,Project
 2012,TIP,Traditional,Underwater Image Enhancement by Wavelength Compensation and Dehazing,https://ieeexplore.ieee.org/document/6104148,,
+2012,CVPR,Traditional,Enhancing Underwater Images and Videos by Fusion,https://ieeexplore.ieee.org/document/6247661,https://github.com/bilityniu/underwater_image_fusion,
 2015,JVCIR,Traditional,Automatic Red-Channel underwater image restoration,https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html,https://github.com/agaldran/UnderWater,
 2016,TIP,Traditional,Underwater Image Enhancement by Dehazing with Minimum Information Loss and Histogram Distribution Prior,https://ieeexplore.ieee.org/document/7574330,https://github.com/Li-Chongyi/TIP2016-code,
 2016,ICIP,Traditional,Underwater image restoration based on minimum information loss principle and optical properties of underwater imaging,https://ieeexplore.ieee.org/document/7532707,,
@@ -7,6 +8,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2018,ICRA,GAN,Enhancing Underwater Imagery Using Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8460552,https://github.com/IRVLab/UGAN,https://irvlab.cs.umn.edu/underwater-image-restoration
 2018,SPL,GAN,Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer,https://ieeexplore.ieee.org/document/8253820,,https://li-chongyi.github.io/proj_Emerging_water.html
 2018,RA-L,GAN,WaterGAN: Unsupervised Generative Network to Enable Real-Time Color Correction of Monocular Underwater Images,https://ieeexplore.ieee.org/document/7995024,https://github.com/kskin/WaterGAN,
+2018,TIP,Traditional,Color Balance and Fusion for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/8058463,https://github.com/bilityniu/underimage-fusion-enhancement,
 2019,CVPR,Traditional,Sea-thru: A Method For Removing Water From Underwater Images,https://openaccess.thecvf.com/content_CVPR_2019/papers/Akkaynak_Sea-Thru_A_Method_for_Removing_Water_From_Underwater_Images_CVPR_2019_paper.pdf,https://github.com/hainh/sea-thru,https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html
 2019,CVPRW,CNN,All-In-One Underwater Image Enhancement using Domain-Adversarial Learning,https://openaccess.thecvf.com/content_CVPRW_2019/papers/UG2+%20Prize%20Challenge/Uplavikar_All-in-One_Underwater_Image_Enhancement_Using_Domain-Adversarial_Learning_CVPRW_2019_paper.pdf,https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning,
 2020,TIP,CNN,An Underwater Image Enhancement Benchmark Dataset and Beyond,https://ieeexplore.ieee.org/document/8917818,https://github.com/Li-Chongyi/Water-Net_Code,https://li-chongyi.github.io/proj_benchmark.html
