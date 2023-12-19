@@ -19,7 +19,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TMM** (CNN) [Underwater Image Enhancement With Lightweight Cascaded Network](https://ieeexplore.ieee.org/document/9547730).
 - **TIP** (Traditional) [Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement](https://ieeexplore.ieee.org/document/9788535). [[code]](https://github.com/Li-Chongyi/MMLE_code)  [[project]](https://li-chongyi.github.io/proj_MMLE) 
 - **TIP** (Traditional) [Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors](https://ieeexplore.ieee.org/document/9854113). [[code]](https://github.com/zhuangpeixian/HLRP) 
-- **TIP** (GAN) [Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond](https://github.com/Jzy2017/TACL).
+- **TIP** (GAN) [Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond](https://ieeexplore.ieee.org/document/9832540). [[code]](https://github.com/Jzy2017/TACL) 
 - **TIP** (CNN) [SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception](https://ieeexplore.ieee.org/document/9930878). [[code]](https://github.com/trentqq/SGUIE-Net_Simple)  [[project]](https://trentqq.github.io/SGUIE-Net.html) 
 - **JOE** (Traditional) [Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement](https://ieeexplore.ieee.org/document/9744022). [[code]](https://github.com/Li-Chongyi/JOE2021_ACDC) 
 - **Frontiers in Marine Science** (CNN) [Lighting the darkness in the sea: A deep learning model for underwater image enhancement](https://www.frontiersin.org/articles/10.3389/fmars.2022.921492/full). [[code]](https://github.com/yuxiao17/LDS-Net) 
@@ -52,5 +52,5 @@ Welcome to pull request to update or correct this collection. 🥰
 ## Year 2015
 - **JVCIR** (Traditional) [Automatic Red-Channel underwater image restoration](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html). [[code]](https://github.com/agaldran/UnderWater) 
 ## Year 2012
-- **TIP** (Traditional) [Underwater Image Enhancement by Wavelength Compensation and Dehazing](https://ieeexplore.ieee.org/document/6104148).
+- **TIP** (Traditional) [Underwater Image Enhancement by Wavelength Compensation and Dehazing](https://ieeexplore.ieee.org/document/6104148). [[code]](https://github.com/mohitkumarahuja/Underwater-Image-Enhancement-by-Wavelength-Compensation-and-Dehazing) 
 - **CVPR** (Traditional) [Enhancing Underwater Images and Videos by Fusion](https://ieeexplore.ieee.org/document/6247661). [[code]](https://github.com/bilityniu/underwater_image_fusion) 
