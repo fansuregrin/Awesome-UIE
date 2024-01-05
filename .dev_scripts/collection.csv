@@ -14,6 +14,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2017,Neurocomputing,Traditional,Underwater image enhancement via extended multi-scale Retinex,https://www.sciencedirect.com/science/article/pii/S0925231217305246,,
 2017,ICCV,Traditional,Depth and Image Restoration from Light Field in a Scattering Medium,https://ieeexplore.ieee.org/document/8237525,,
 2017,TIP,Traditional,Underwater Image Restoration Based on Image Blurriness and Light Absorption,https://ieeexplore.ieee.org/document/7840002,,
+2017,ICIP,CNN,A deep CNN method for underwater image enhancement,https://ieeexplore.ieee.org/document/8296508,,
 2018,CVPR,Traditional,A Revised Underwater Image Formation Model,https://openaccess.thecvf.com/content_cvpr_2018/papers/Akkaynak_A_Revised_Underwater_CVPR_2018_paper.pdf,,
 2018,ICRA,GAN,Enhancing Underwater Imagery Using Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8460552,https://github.com/IRVLab/UGAN,https://irvlab.cs.umn.edu/underwater-image-restoration
 2018,SPL,GAN,Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer,https://ieeexplore.ieee.org/document/8253820,https://github.com/djjandXMU/CycleGAN-and-modification,https://li-chongyi.github.io/proj_Emerging_water.html
@@ -43,6 +44,8 @@ Year,Pub,Type,Title,URL,Code,Project
 2022,TIP,GAN,Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond,https://ieeexplore.ieee.org/document/9832540,https://github.com/Jzy2017/TACL,
 2022,Frontiers in Marine Science,CNN,Lighting the darkness in the sea: A deep learning model for underwater image enhancement,https://www.frontiersin.org/articles/10.3389/fmars.2022.921492/full,https://github.com/yuxiao17/LDS-Net,
 2022,CVPRW,GAN,AquaGAN: Restoration of Underwater Images,https://openaccess.thecvf.com/content/CVPR2022W/PBVS/papers/Desai_AquaGAN_Restoration_of_Underwater_Images_CVPRW_2022_paper.pdf,,
+2022,Displays,GAN,RCA-CycleGAN: Unsupervised underwater image enhancement using Red Channel attention optimized CycleGAN,https://www.sciencedirect.com/science/article/abs/pii/S0141938222001779,,
+2022,TGARS,Transformer,Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution,https://ieeexplore.ieee.org/document/9881581,https://github.com/TingdiRen/URSCT-SESR,
 2023,TCSVT,Traditional,A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/9895452,,
 2023,SPL,Traditional,Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement,https://ieeexplore.ieee.org/document/10065491,https://github.com/Li-Chongyi/PCDE,
 2023,EAAI,Traditional,HFM: A hybrid fusion method for underwater image enhancement,https://www.sciencedirect.com/science/article/pii/S0952197623014033,https://github.com/An-Shunmin/HFM,
@@ -51,6 +54,16 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,TIP,GAN,Domain Adaptation for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10048777,https://github.com/zyWang-Power/TUDA,
 2023,TIP,Transformer,U-Shape Transformer for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10129222,https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement,https://bianlab.github.io/index.html
 2023,C&G,Transformer,UDAformer: Underwater image enhancement based on dual attention transformer,https://www.sciencedirect.com/science/article/pii/S0097849323000109,https://github.com/ShenZhen0502/UDAformer,
+2023,TIP,GAN,PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators,https://ieeexplore.ieee.org/document/10155564,https://github.com/rmcong/PUGAN_TIP2023,https://rmcong.github.io/proj_PUGAN.html
 2023,ICME,CNN,Transmission and Color-guided Network for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10219946,,
 2023,TCSVT,CNN,UIALN: Enhancement for Underwater Image With Artificial Light,https://ieeexplore.ieee.org/document/10019314,https://github.com/lilala0/UIALN,
+2023,EAAI,CNN,Multi-view underwater image enhancement method via embedded fusion mechanism,https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306,,
+2023,TCSVT,DDPM,Speed-Up DDPM for Real-time Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10250851,,
+2023,ICRA,CNN,SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images,https://ieeexplore.ieee.org/document/10161531,https://github.com/rockwenjj/syreanet,
 2023,arXiv,CNN,WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond,https://arxiv.org/abs/2308.00931,,
+2023,arXiv,CNN,DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement,https://arxiv.org/abs/2312.06999,,
+2023,arXiv,CNN,IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater,https://arxiv.org/abs/2312.06955,,
+2023,arXiv,CNN,Physics-Aware Semi-Supervised Underwater Image Enhancement,https://arxiv.org/abs/2307.11470,,
+2023,arXiv,CNN,Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement,https://arxiv.org/abs/2308.11932,,
+2023,arXiv,DDPM,UIEDP:Underwater Image Enhancement with Diffusion Prior,https://arxiv.org/abs/2312.06240,,
+2023,arXiv,CNN,UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement,https://arxiv.org/abs/2306.08344,,
