@@ -56,6 +56,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **RA-L** (GAN) [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231). [[code]](https://github.com/xahidbuffon/FUnIE-GAN)  [[project]](https://experts.umn.edu/en/publications/fast-underwater-image-enhancement-for-improved-visual-perception) 
 - **PR** (CNN) [Underwater scene prior inspired deep underwater image and video enhancement](https://www.sciencedirect.com/science/article/pii/S0031320319303401). [[code]](https://github.com/saeed-anwar/UWCNN)  [[project]](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) 
 - **JOE** (GAN) [Underwater Image Enhancement Using a Multiscale Dense Generative Adversarial Network](https://ieeexplore.ieee.org/document/8730425).
+- **IMAGE** (CNN) [Underwater image enhancement with global–local networks and compressed-histogram equalization](https://www.sciencedirect.com/science/article/pii/S0923596520300965). [[code]](https://xueyangfu.github.io/paper/2020/SPIC/code.zip)  [[project]](https://xueyangfu.github.io/projects/spic2020.html) 
 - **CVPRW** (Traditional) [L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Marques_L2UWE_A_Framework_for_the_Efficient_Enhancement_of_Low-Light_Underwater_CVPRW_2020_paper.html). [[code]](https://github.com/tunai/l2uwe) 
 ## Year 2019
 - **arXiv** (GAN) [UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing](https://arxiv.org/abs/1912.10269). [[code]](https://github.com/infrontofme/UWGAN_UIE) 
@@ -80,7 +81,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **JVCIR** (Traditional) [Automatic Red-Channel underwater image restoration](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html). [[code]](https://github.com/agaldran/UnderWater) 
 ## Year 2014
 - **ICRA** (Traditional) [Simultaneous Underwater Visibility Assessment Enhancement and Improved Stereo](https://ieeexplore.ieee.org/document/6907416).
-- **ICIP** (Traditional) [A retinex-based enhancing approach for single underwater image](https://ieeexplore.ieee.org/document/7025927).
+- **ICIP** (Traditional) [A retinex-based enhancing approach for single underwater image](https://ieeexplore.ieee.org/document/7025927). [[code]](https://xueyangfu.github.io/paper/2014/ICIP/underwater.zip)  [[project]](https://xueyangfu.github.io/projects/icip2014.html) 
 ## Year 2013
 - **ICCVW** (Traditional) [Transmission Estimation in Underwater Single Images](https://ieeexplore.ieee.org/document/6755982). [[code]](https://github.com/bilityniu/underwater_dark_chennel) 
 ## Year 2012
