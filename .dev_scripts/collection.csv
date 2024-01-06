@@ -34,9 +34,11 @@ Year,Pub,Type,Title,URL,Code,Project
 2021,EAAI,Traditional,Bayesian retinex underwater image enhancement,https://www.sciencedirect.com/science/article/pii/S095219762100018X,,
 2021,SPL,GAN,Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space,https://ieeexplore.ieee.org/document/9496260,,
 2021,IMAGE,CNN,UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space,https://www.sciencedirect.com/science/article/pii/S0923596521001004,https://github.com/BIGWangYuDong/UWEnhancement,
+2021,TGARS,Traditional,An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology,https://ieeexplore.ieee.org/document/9257110,https://github.com/bilityniu/cbm_tgrs,
 2022,TIP,Traditional,Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement,https://ieeexplore.ieee.org/document/9788535,https://github.com/Li-Chongyi/MMLE_code,https://li-chongyi.github.io/proj_MMLE
 2022,TIP,Traditional,Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors,https://ieeexplore.ieee.org/document/9854113,https://github.com/zhuangpeixian/HLRP,
 2022,JOE,Traditional,Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement,https://ieeexplore.ieee.org/document/9744022,https://github.com/Li-Chongyi/JOE2021_ACDC,
+2022,TGARS,Traditional,TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion,https://ieeexplore.ieee.org/document/9559904,https://github.com/bilityniu/TEBCF_tgrs,
 2022,TMM,CNN,Underwater Image Enhancement With Lightweight Cascaded Network,https://ieeexplore.ieee.org/document/9547730,,
 2022,AAAI,CNN,Unsupervised Underwater Image Restoration: From a Homology Perspective,https://ojs.aaai.org/index.php/AAAI/article/view/19944,https://github.com/zhenqifu/USUIR,
 2022,ECCV,CNN,Uncertainty Inspired Underwater Image Enhancement,https://dl.acm.org/doi/abs/10.1007/978-3-031-19797-0_27,https://github.com/zhenqifu/PUIE-Net,

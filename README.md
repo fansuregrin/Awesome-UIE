@@ -36,6 +36,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TIP** (GAN) [Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond](https://ieeexplore.ieee.org/document/9832540). [[code]](https://github.com/Jzy2017/TACL) 
 - **TIP** (CNN) [SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement With Multi-Scale Perception](https://ieeexplore.ieee.org/document/9930878). [[code]](https://github.com/trentqq/SGUIE-Net_Simple)  [[project]](https://trentqq.github.io/SGUIE-Net.html) 
 - **TGARS** (Transformer) [Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution](https://ieeexplore.ieee.org/document/9881581). [[code]](https://github.com/TingdiRen/URSCT-SESR) 
+- **TGARS** (Traditional) [TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion](https://ieeexplore.ieee.org/document/9559904). [[code]](https://github.com/bilityniu/TEBCF_tgrs) 
 - **JOE** (Traditional) [Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement](https://ieeexplore.ieee.org/document/9744022). [[code]](https://github.com/Li-Chongyi/JOE2021_ACDC) 
 - **Frontiers in Marine Science** (CNN) [Lighting the darkness in the sea: A deep learning model for underwater image enhancement](https://www.frontiersin.org/articles/10.3389/fmars.2022.921492/full). [[code]](https://github.com/yuxiao17/LDS-Net) 
 - **ECCV** (CNN) [Uncertainty Inspired Underwater Image Enhancement](https://dl.acm.org/doi/abs/10.1007/978-3-031-19797-0_27). [[code]](https://github.com/zhenqifu/PUIE-Net) 
@@ -45,6 +46,7 @@ Welcome to pull request to update or correct this collection. 🥰
 ## Year 2021
 - **TPAMI** (Traditional) [Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset](https://ieeexplore.ieee.org/document/9020130).
 - **TIP** (Traditional) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
+- **TGARS** (Traditional) [An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology](https://ieeexplore.ieee.org/document/9257110). [[code]](https://github.com/bilityniu/cbm_tgrs) 
 - **SPL** (GAN) [Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space](https://ieeexplore.ieee.org/document/9496260).
 - **IMAGE** (CNN) [UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
 - **EAAI** (Traditional) [Bayesian retinex underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S095219762100018X).
