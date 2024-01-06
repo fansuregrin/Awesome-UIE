@@ -49,7 +49,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TGARS** (Traditional) [An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology](https://ieeexplore.ieee.org/document/9257110). [[code]](https://github.com/bilityniu/cbm_tgrs) 
 - **SPL** (GAN) [Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space](https://ieeexplore.ieee.org/document/9496260).
 - **IMAGE** (CNN) [UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
-- **EAAI** (Traditional) [Bayesian retinex underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S095219762100018X).
+- **EAAI** (Traditional) [Bayesian retinex underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S095219762100018X). [[code]](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) 
 ## Year 2020
 - **TIP** (CNN) [An Underwater Image Enhancement Benchmark Dataset and Beyond](https://ieeexplore.ieee.org/document/8917818). [[code]](https://github.com/Li-Chongyi/Water-Net_Code)  [[project]](https://li-chongyi.github.io/proj_benchmark.html) 
 - **TCSVT** (Benchmark) [Real-World Underwater Enhancement: Challenges Benchmarks and Solutions Under Natural Light](https://ieeexplore.ieee.org/document/8949763). [[code]](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark) 
