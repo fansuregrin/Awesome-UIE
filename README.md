@@ -20,6 +20,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TIP** (GAN) [PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators](https://ieeexplore.ieee.org/document/10155564). [[code]](https://github.com/rmcong/PUGAN_TIP2023)  [[project]](https://rmcong.github.io/proj_PUGAN.html) 
 - **TCSVT** (Traditional) [A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/9895452).
 - **TCSVT** (Traditional) [Underwater Image Quality Improvement via Color Detail and Contrast Restoration](https://ieeexplore.ieee.org/document/10189844).
+- **TCSVT** (Traditional) [Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion](https://ieeexplore.ieee.org/document/10196309). [[code]](https://github.com/Li-Chongyi/WWPF_code) 
 - **TCSVT** (DDPM) [Speed-Up DDPM for Real-time Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10250851).
 - **TCSVT** (CNN) [UIALN: Enhancement for Underwater Image With Artificial Light](https://ieeexplore.ieee.org/document/10019314). [[code]](https://github.com/lilala0/UIALN) 
 - **SPL** (Traditional) [Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement](https://ieeexplore.ieee.org/document/10065491). [[code]](https://github.com/Li-Chongyi/PCDE) 

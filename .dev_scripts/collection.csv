@@ -53,6 +53,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,SPL,Traditional,Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement,https://ieeexplore.ieee.org/document/10065491,https://github.com/Li-Chongyi/PCDE,
 2023,EAAI,Traditional,HFM: A hybrid fusion method for underwater image enhancement,https://www.sciencedirect.com/science/article/pii/S0952197623014033,https://github.com/An-Shunmin/HFM,
 2023,TCSVT,Traditional,Underwater Image Quality Improvement via Color Detail and Contrast Restoration,https://ieeexplore.ieee.org/document/10189844,,
+2023,TCSVT,Traditional,Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion,https://ieeexplore.ieee.org/document/10196309,https://github.com/Li-Chongyi/WWPF_code,
 2023,JVCIR,DDPM,Underwater image enhancement method based on denoising diffusion probabilistic model,https://www.sciencedirect.com/science/article/pii/S1047320323001761,,
 2023,TIP,GAN,Domain Adaptation for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10048777,https://github.com/zyWang-Power/TUDA,
 2023,TIP,Transformer,U-Shape Transformer for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10129222,https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement,https://bianlab.github.io/index.html
