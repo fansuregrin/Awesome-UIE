@@ -49,7 +49,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **AAAI** (CNN) [Unsupervised Underwater Image Restoration: From a Homology Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/19944). [[code]](https://github.com/zhenqifu/USUIR) 
 ## Year 2021
 - **TPAMI** (Traditional) [Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset](https://ieeexplore.ieee.org/document/9020130).
-- **TIP** (Traditional) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
+- **TIP** (CNN) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
 - **TGARS** (Traditional) [An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology](https://ieeexplore.ieee.org/document/9257110). [[code]](https://github.com/bilityniu/cbm_tgrs) 
 - **SPL** (GAN) [Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space](https://ieeexplore.ieee.org/document/9496260).
 - **IMAGE** (CNN) [UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
