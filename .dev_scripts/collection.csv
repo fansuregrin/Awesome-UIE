@@ -68,6 +68,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,TCSVT,DDPM,Speed-Up DDPM for Real-time Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10250851,,
 2023,ACM MM,DDPM,Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy,https://dl.acm.org/doi/10.1145/3581783.3612378,https://github.com/piggy2009/DM_underwater,
 2023,ICRA,CNN,SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images,https://ieeexplore.ieee.org/document/10161531,https://github.com/rockwenjj/syreanet,
+2023,EAAI,CNN,Multi-view underwater image enhancement method via embedded fusion mechanism,https://www.sciencedirect.com/science/article/pii/S0952197623001306,,
 2023,arXiv,CNN,WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond,https://arxiv.org/abs/2308.00931,,
 2023,arXiv,CNN,DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement,https://arxiv.org/abs/2312.06999,,
 2023,arXiv,CNN,IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater,https://arxiv.org/abs/2312.06955,,

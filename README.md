@@ -29,6 +29,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **ICME** (CNN) [Transmission and Color-guided Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10219946).
 - **EAAI** (Traditional) [HFM: A hybrid fusion method for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197623014033). [[code]](https://github.com/An-Shunmin/HFM) 
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306).
+- **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/pii/S0952197623001306).
 - **C&G** (Transformer) [UDAformer: Underwater image enhancement based on dual attention transformer](https://www.sciencedirect.com/science/article/pii/S0097849323000109). [[code]](https://github.com/ShenZhen0502/UDAformer) 
 - **ACM MM** (DDPM) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
 ## Year 2022
