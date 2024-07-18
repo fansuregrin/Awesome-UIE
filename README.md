@@ -7,6 +7,15 @@ This `README.md` is automatically generated from [`.dev_scripts/collection.csv`]
 We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md` from CSV file or vice versa. 
 
 Welcome to pull request to update or correct this collection. 🥰
+## Year 2024
+- **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
+- **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419).
+- **arXiv** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/abs/2406.08444). [[code]](https://github.com/weitunglin/pixmamba) 
+- **arXiv** (Diffusion) [Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier](https://arxiv.org/abs/2405.16214). [[code]](https://github.com/OUCVisionGroup/CLIP-UIE)  [[project]](https://oucvisiongroup.github.io/CLIP-UIE.html/) 
+- **arXiv** (CNN) [FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder](https://arxiv.org/abs/2404.17936). [[code]](https://github.com/Alexande-rChan/FDCE-Net) 
+- **arXiv** (CNN) [LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement](https://arxiv.org/abs/2406.14973).
+- **arXiv** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://arxiv.org/abs/2406.18628).
+- **arXiv** (CNN) [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/abs/2407.04230).
 ## Year 2023
 - **arXiv** (DDPM) [UIEDP:Underwater Image Enhancement with Diffusion Prior](https://arxiv.org/abs/2312.06240).
 - **arXiv** (CNN) [WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond](https://arxiv.org/abs/2308.00931).
@@ -54,7 +63,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TIP** (CNN) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
 - **TGARS** (Traditional) [An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology](https://ieeexplore.ieee.org/document/9257110). [[code]](https://github.com/bilityniu/cbm_tgrs) 
 - **SPL** (GAN) [Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space](https://ieeexplore.ieee.org/document/9496260).
-- **IMAGE** (CNN) [UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
+- **IMAGE** (CNN) [UIEC藛2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
 - **EAAI** (Traditional) [Bayesian retinex underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S095219762100018X). [[code]](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) 
 ## Year 2020
 - **TIP** (CNN) [An Underwater Image Enhancement Benchmark Dataset and Beyond](https://ieeexplore.ieee.org/document/8917818). [[code]](https://github.com/Li-Chongyi/Water-Net_Code)  [[project]](https://li-chongyi.github.io/proj_benchmark.html) 
@@ -62,7 +71,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **RA-L** (GAN) [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231). [[code]](https://github.com/xahidbuffon/FUnIE-GAN)  [[project]](https://experts.umn.edu/en/publications/fast-underwater-image-enhancement-for-improved-visual-perception) 
 - **PR** (CNN) [Underwater scene prior inspired deep underwater image and video enhancement](https://www.sciencedirect.com/science/article/pii/S0031320319303401). [[code]](https://github.com/saeed-anwar/UWCNN)  [[project]](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) 
 - **JOE** (GAN) [Underwater Image Enhancement Using a Multiscale Dense Generative Adversarial Network](https://ieeexplore.ieee.org/document/8730425). [[code]](https://github.com/IPNUISTlegal/Underwater-Image-Enhancement-Using-a-Multiscale-Dense-Generative-Adversarial-Network) 
-- **IMAGE** (CNN) [Underwater image enhancement with global–local networks and compressed-histogram equalization](https://www.sciencedirect.com/science/article/pii/S0923596520300965). [[code]](https://xueyangfu.github.io/paper/2020/SPIC/code.zip)  [[project]](https://xueyangfu.github.io/projects/spic2020.html) 
+- **IMAGE** (CNN) [Underwater image enhancement with global-local networks and compressed-histogram equalization](https://www.sciencedirect.com/science/article/pii/S0923596520300965). [[code]](https://xueyangfu.github.io/paper/2020/SPIC/code.zip)  [[project]](https://xueyangfu.github.io/projects/spic2020.html) 
 - **CVPRW** (Traditional) [L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Marques_L2UWE_A_Framework_for_the_Efficient_Enhancement_of_Low-Light_Underwater_CVPRW_2020_paper.html). [[code]](https://github.com/tunai/l2uwe) 
 ## Year 2019
 - **arXiv** (GAN) [UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing](https://arxiv.org/abs/1912.10269). [[code]](https://github.com/infrontofme/UWGAN_UIE) 

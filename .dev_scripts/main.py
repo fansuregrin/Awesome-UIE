@@ -107,7 +107,7 @@ def csv_to_readme():
     readme_content = HEAD
     for y in years: 
         readme_content += message[y]
-    with open(MD_FILE, 'w') as f:
+    with open(MD_FILE, 'w', encoding='utf-8') as f:
         f.write(readme_content)
  
 
