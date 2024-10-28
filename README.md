@@ -8,6 +8,7 @@ We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md`
 
 Welcome to pull request to update or correct this collection. 🥰
 ## Year 2024
+- **OpenReview** (Mamba) [Bayesian Enhancement Models for One-to-Many Mapping in Image Enhancement](https://openreview.net/pdf/725cb359acc759d8173bb043b4a40900fd65cb66.pdf). [[code]](https://github.com/Anonymous1563/Bayesian-Enhancement-Model) 
 - **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
 - **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419).
 - **arXiv** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/abs/2406.08444). [[code]](https://github.com/weitunglin/pixmamba) 
