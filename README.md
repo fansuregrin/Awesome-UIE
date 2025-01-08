@@ -15,21 +15,20 @@ Welcome to pull request to update or correct this collection. 🥰
 - **ICASSP** (CNN) [Underwater Image Restoration via Polymorphic Large Kernel CNNs](https://arxiv.org/abs/2412.18459). [[code]](https://github.com/CXH-Research/UIR-PolyKernel) 
 ## Year 2024
 - **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
-- **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419).
-- **arXiv** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/abs/2406.08444). [[code]](https://github.com/weitunglin/pixmamba) 
+- **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419). [[code]](https://github.com/Guan-MS/WaterMamba) 
 - **arXiv** (Diffusion) [Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier](https://arxiv.org/abs/2405.16214). [[code]](https://github.com/OUCVisionGroup/CLIP-UIE)  [[project]](https://oucvisiongroup.github.io/CLIP-UIE.html/) 
 - **arXiv** (CNN) [FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder](https://arxiv.org/abs/2404.17936). [[code]](https://github.com/Alexande-rChan/FDCE-Net) 
 - **arXiv** (CNN) [LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement](https://arxiv.org/abs/2406.14973).
-- **arXiv** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://arxiv.org/abs/2406.18628).
 - **arXiv** (CNN) [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/abs/2407.04230).
+- **TMM** (CNN) [UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10496814/). [[code]](https://github.com/zyWang-Power/UIERL) 
+- **ICVGIP** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://dl.acm.org/doi/10.1145/3702250.3702252).
+- **ACCV** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://openaccess.thecvf.com/content/ACCV2024/papers/Lin_PixMamba_Leveraging_State_Space_Models_in_a_Dual-Level_Architecture_for_ACCV_2024_paper.pdf). [[code]](https://github.com/weitunglin/pixmamba) 
 ## Year 2023
-- **arXiv** (DDPM) [UIEDP:Underwater Image Enhancement with Diffusion Prior](https://arxiv.org/abs/2312.06240).
-- **arXiv** (CNN) [WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond](https://arxiv.org/abs/2308.00931).
+- **arXiv** (Hybrid) [WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond](https://arxiv.org/abs/2308.00931).
 - **arXiv** (CNN) [DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement](https://arxiv.org/abs/2312.06999).
 - **arXiv** (CNN) [IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater](https://arxiv.org/abs/2312.06955).
 - **arXiv** (CNN) [Physics-Aware Semi-Supervised Underwater Image Enhancement](https://arxiv.org/abs/2307.11470).
-- **arXiv** (CNN) [Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement](https://arxiv.org/abs/2308.11932).
-- **arXiv** (CNN) [UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement](https://arxiv.org/abs/2306.08344).
+- **arXiv** (CNN) [Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement](https://arxiv.org/abs/2308.11932). [[code]](https://github.com/zhoujingchun03/SMDR-IS) 
 - **TIP** (Transformer) [U-Shape Transformer for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10129222). [[code]](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement)  [[project]](https://bianlab.github.io/index.html) 
 - **TIP** (GAN) [Domain Adaptation for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10048777). [[code]](https://github.com/zyWang-Power/TUDA) 
 - **TIP** (GAN) [PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators](https://ieeexplore.ieee.org/document/10155564). [[code]](https://github.com/rmcong/PUGAN_TIP2023)  [[project]](https://rmcong.github.io/proj_PUGAN.html) 
@@ -42,11 +41,12 @@ Welcome to pull request to update or correct this collection. 🥰
 - **JVCIR** (DDPM) [Underwater image enhancement method based on denoising diffusion probabilistic model](https://www.sciencedirect.com/science/article/pii/S1047320323001761).
 - **ICRA** (CNN) [SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images](https://ieeexplore.ieee.org/document/10161531). [[code]](https://github.com/rockwenjj/syreanet) 
 - **ICME** (CNN) [Transmission and Color-guided Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10219946).
+- **ESWA** (DDPM) [UIEDP: Boosting underwater image enhancement with diffusion prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389). [[project]](https://ddz16.github.io/) 
 - **EAAI** (Traditional) [HFM: A hybrid fusion method for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197623014033). [[code]](https://github.com/An-Shunmin/HFM) 
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306).
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/pii/S0952197623001306).
 - **C&G** (Transformer) [UDAformer: Underwater image enhancement based on dual attention transformer](https://www.sciencedirect.com/science/article/pii/S0097849323000109). [[code]](https://github.com/ShenZhen0502/UDAformer) 
-- **ACM MM** (DDPM) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
+- **ACM-MM** (DDPM) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
 ## Year 2022
 - **TMM** (CNN) [Underwater Image Enhancement With Lightweight Cascaded Network](https://ieeexplore.ieee.org/document/9547730).
 - **TIP** (Traditional) [Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement](https://ieeexplore.ieee.org/document/9788535). [[code]](https://github.com/Li-Chongyi/MMLE_code)  [[project]](https://li-chongyi.github.io/proj_MMLE) 
