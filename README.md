@@ -7,6 +7,12 @@ This `README.md` is automatically generated from [`.dev_scripts/collection.csv`]
 We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md` from CSV file or vice versa. 
 
 Welcome to pull request to update or correct this collection. 🥰
+## Year 2025
+- **arXiv** (Hybrid) [OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging](https://arxiv.org/abs/2411.13230). [[code]](https://github.com/AIRLabIISc/OceanLens) 
+- **arXiv** (CNN) [Underwater Image Enhancement with Cascaded Contrastive Learning](https://arxiv.org/abs/2411.10682). [[code]](https://github.com/lewis081/CCL-Net) 
+- **WACV** (Transformer) [Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond](https://arxiv.org/abs/2412.01456). [[code]](https://github.com/Mdraqibkhan/Phaseformer) 
+- **IJCV** (Hybrid) [HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning](https://link.springer.com/article/10.1007/s11263-024-02318-x). [[code]](https://github.com/ZengxiZhang/HUPE) 
+- **ICASSP** (CNN) [Underwater Image Restoration via Polymorphic Large Kernel CNNs](https://arxiv.org/abs/2412.18459). [[code]](https://github.com/CXH-Research/UIR-PolyKernel) 
 ## Year 2024
 - **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
 - **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419).

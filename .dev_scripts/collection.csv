@@ -84,3 +84,8 @@ Year,Pub,Type,Title,URL,Code,Project
 2024,arXiv,CNN,LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement,https://arxiv.org/abs/2406.14973,,
 2024,arXiv,CNN,IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement,https://arxiv.org/abs/2406.18628,,
 2024,arXiv,CNN,A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation,https://arxiv.org/abs/2407.04230,,
+2025,ICASSP,CNN,Underwater Image Restoration via Polymorphic Large Kernel CNNs,https://arxiv.org/abs/2412.18459,https://github.com/CXH-Research/UIR-PolyKernel,
+2025,arXiv,CNN,Underwater Image Enhancement with Cascaded Contrastive Learning,https://arxiv.org/abs/2411.10682,https://github.com/lewis081/CCL-Net,
+2025,IJCV,Hybrid,HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning,https://link.springer.com/article/10.1007/s11263-024-02318-x,https://github.com/ZengxiZhang/HUPE,
+2025,WACV,Transformer,Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond,https://arxiv.org/abs/2412.01456,https://github.com/Mdraqibkhan/Phaseformer,
+2025,arXiv,Hybrid,OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging,https://arxiv.org/abs/2411.13230,https://github.com/AIRLabIISc/OceanLens,
