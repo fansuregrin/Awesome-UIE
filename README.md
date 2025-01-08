@@ -11,8 +11,10 @@ Welcome to pull request to update or correct this collection. 🥰
 - **arXiv** (Hybrid) [OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging](https://arxiv.org/abs/2411.13230). [[code]](https://github.com/AIRLabIISc/OceanLens) 
 - **arXiv** (CNN) [Underwater Image Enhancement with Cascaded Contrastive Learning](https://arxiv.org/abs/2411.10682). [[code]](https://github.com/lewis081/CCL-Net) 
 - **WACV** (Transformer) [Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond](https://arxiv.org/abs/2412.01456). [[code]](https://github.com/Mdraqibkhan/Phaseformer) 
+- **Neurocomputing** (Diffusion) [BDMUIE: Underwater image enhancement based on Bayesian diffusion model](https://www.sciencedirect.com/science/article/pii/S0925231224020459).
 - **IJCV** (Hybrid) [HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning](https://link.springer.com/article/10.1007/s11263-024-02318-x). [[code]](https://github.com/ZengxiZhang/HUPE) 
 - **ICASSP** (CNN) [Underwater Image Restoration via Polymorphic Large Kernel CNNs](https://arxiv.org/abs/2412.18459). [[code]](https://github.com/CXH-Research/UIR-PolyKernel) 
+- **ESWA** (CNN) [Deep dive into clarity: Leveraging signal-to-noise ratio awareness and knowledge distillation for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0957417424031841).
 ## Year 2024
 - **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
 - **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419). [[code]](https://github.com/Guan-MS/WaterMamba) 
@@ -20,8 +22,12 @@ Welcome to pull request to update or correct this collection. 🥰
 - **arXiv** (CNN) [FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder](https://arxiv.org/abs/2404.17936). [[code]](https://github.com/Alexande-rChan/FDCE-Net) 
 - **arXiv** (CNN) [LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement](https://arxiv.org/abs/2406.14973).
 - **arXiv** (CNN) [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/abs/2407.04230).
+- **TMM** (Diffusion) [DiffUIE: Learning Latent Global Priors in Diffusion Models for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10812849).
 - **TMM** (CNN) [UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10496814/). [[code]](https://github.com/zyWang-Power/UIERL) 
+- **TGARS** (Diffusion) [DCGF: Diffusion-Color-Guided Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10816000).
+- **TCSVT** (CNN) [See Through Water: Heuristic Modeling towards Color Correction for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10798483).
 - **Neurocomputing** (Hybrid) [LUIE: Learnable physical model-guided underwater image enhancement with bi-directional unsupervised domain adaptatio](https://www.sciencedirect.com/science/article/pii/S0925231224010579).
+- **JOE** (Hybrid) [UIE-SFIFormer: Underwater Image Enhancement Based on Physical-Guided Spatial鈥揊requency Interaction Transformer](https://ieeexplore.ieee.org/document/10805568).
 - **ICVGIP** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://dl.acm.org/doi/10.1145/3702250.3702252).
 - **ACCV** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://openaccess.thecvf.com/content/ACCV2024/papers/Lin_PixMamba_Leveraging_State_Space_Models_in_a_Dual-Level_Architecture_for_ACCV_2024_paper.pdf). [[code]](https://github.com/weitunglin/pixmamba) 
 ## Year 2023
