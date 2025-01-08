@@ -21,6 +21,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **arXiv** (CNN) [LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement](https://arxiv.org/abs/2406.14973).
 - **arXiv** (CNN) [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/abs/2407.04230).
 - **TMM** (CNN) [UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10496814/). [[code]](https://github.com/zyWang-Power/UIERL) 
+- **Neurocomputing** (Hybrid) [LUIE: Learnable physical model-guided underwater image enhancement with bi-directional unsupervised domain adaptatio](https://www.sciencedirect.com/science/article/pii/S0925231224010579).
 - **ICVGIP** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://dl.acm.org/doi/10.1145/3702250.3702252).
 - **ACCV** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://openaccess.thecvf.com/content/ACCV2024/papers/Lin_PixMamba_Leveraging_State_Space_Models_in_a_Dual-Level_Architecture_for_ACCV_2024_paper.pdf). [[code]](https://github.com/weitunglin/pixmamba) 
 ## Year 2023
@@ -35,18 +36,18 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TCSVT** (Traditional) [A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/9895452).
 - **TCSVT** (Traditional) [Underwater Image Quality Improvement via Color Detail and Contrast Restoration](https://ieeexplore.ieee.org/document/10189844).
 - **TCSVT** (Traditional) [Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion](https://ieeexplore.ieee.org/document/10196309). [[code]](https://github.com/Li-Chongyi/WWPF_code) 
-- **TCSVT** (DDPM) [Speed-Up DDPM for Real-time Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10250851).
+- **TCSVT** (Diffusion) [Speed-Up DDPM for Real-time Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10250851).
 - **TCSVT** (CNN) [UIALN: Enhancement for Underwater Image With Artificial Light](https://ieeexplore.ieee.org/document/10019314). [[code]](https://github.com/lilala0/UIALN) 
 - **SPL** (Traditional) [Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement](https://ieeexplore.ieee.org/document/10065491). [[code]](https://github.com/Li-Chongyi/PCDE) 
-- **JVCIR** (DDPM) [Underwater image enhancement method based on denoising diffusion probabilistic model](https://www.sciencedirect.com/science/article/pii/S1047320323001761).
+- **JVCIR** (Diffusion) [Underwater image enhancement method based on denoising diffusion probabilistic model](https://www.sciencedirect.com/science/article/pii/S1047320323001761).
 - **ICRA** (CNN) [SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images](https://ieeexplore.ieee.org/document/10161531). [[code]](https://github.com/rockwenjj/syreanet) 
 - **ICME** (CNN) [Transmission and Color-guided Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10219946).
-- **ESWA** (DDPM) [UIEDP: Boosting underwater image enhancement with diffusion prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389). [[project]](https://ddz16.github.io/) 
+- **ESWA** (Diffusion) [UIEDP: Boosting underwater image enhancement with diffusion prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389). [[project]](https://ddz16.github.io/) 
 - **EAAI** (Traditional) [HFM: A hybrid fusion method for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197623014033). [[code]](https://github.com/An-Shunmin/HFM) 
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306).
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/pii/S0952197623001306).
 - **C&G** (Transformer) [UDAformer: Underwater image enhancement based on dual attention transformer](https://www.sciencedirect.com/science/article/pii/S0097849323000109). [[code]](https://github.com/ShenZhen0502/UDAformer) 
-- **ACM-MM** (DDPM) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
+- **ACM-MM** (Diffusion) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
 ## Year 2022
 - **TMM** (CNN) [Underwater Image Enhancement With Lightweight Cascaded Network](https://ieeexplore.ieee.org/document/9547730).
 - **TIP** (Traditional) [Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement](https://ieeexplore.ieee.org/document/9788535). [[code]](https://github.com/Li-Chongyi/MMLE_code)  [[project]](https://li-chongyi.github.io/proj_MMLE) 
@@ -77,6 +78,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **RA-L** (GAN) [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231). [[code]](https://github.com/xahidbuffon/FUnIE-GAN)  [[project]](https://experts.umn.edu/en/publications/fast-underwater-image-enhancement-for-improved-visual-perception) 
 - **PR** (CNN) [Underwater scene prior inspired deep underwater image and video enhancement](https://www.sciencedirect.com/science/article/pii/S0031320319303401). [[code]](https://github.com/saeed-anwar/UWCNN)  [[project]](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) 
 - **JOE** (GAN) [Underwater Image Enhancement Using a Multiscale Dense Generative Adversarial Network](https://ieeexplore.ieee.org/document/8730425). [[code]](https://github.com/IPNUISTlegal/Underwater-Image-Enhancement-Using-a-Multiscale-Dense-Generative-Adversarial-Network) 
+- **IMAGE** (Review) [Diving Deeper into Underwater image enhancement: A survey](https://www.sciencedirect.com/science/article/pii/S0923596520301478). [[code]](https://github.com/saeed-anwar/UWSurvey) 
 - **IMAGE** (CNN) [Underwater image enhancement with global-local networks and compressed-histogram equalization](https://www.sciencedirect.com/science/article/pii/S0923596520300965). [[code]](https://xueyangfu.github.io/paper/2020/SPIC/code.zip)  [[project]](https://xueyangfu.github.io/projects/spic2020.html) 
 - **CVPRW** (Traditional) [L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Marques_L2UWE_A_Framework_for_the_Efficient_Enhancement_of_Low-Light_Underwater_CVPRW_2020_paper.html). [[code]](https://github.com/tunai/l2uwe) 
 ## Year 2019
