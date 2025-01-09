@@ -19,15 +19,16 @@ Welcome to pull request to update or correct this collection. 🥰
 - **arXiv** (Review) [A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning](https://arxiv.org/abs/2405.19684). [[code]](https://github.com/YuZhao1999/UIE) 
 - **arXiv** (Mamba) [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419). [[code]](https://github.com/Guan-MS/WaterMamba) 
 - **arXiv** (Diffusion) [Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier](https://arxiv.org/abs/2405.16214). [[code]](https://github.com/OUCVisionGroup/CLIP-UIE)  [[project]](https://oucvisiongroup.github.io/CLIP-UIE.html/) 
-- **arXiv** (CNN) [FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder](https://arxiv.org/abs/2404.17936). [[code]](https://github.com/Alexande-rChan/FDCE-Net) 
 - **arXiv** (CNN) [LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement](https://arxiv.org/abs/2406.14973).
+- **arXiv** (CNN) [FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder](https://arxiv.org/abs/2404.17936). [[code]](https://github.com/Alexande-rChan/FDCE-Net) 
 - **arXiv** (CNN) [A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation](https://arxiv.org/abs/2407.04230).
+- **WACV** (Hybrid) [PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10484357).
 - **TMM** (Diffusion) [DiffUIE: Learning Latent Global Priors in Diffusion Models for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10812849).
 - **TMM** (CNN) [UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10496814/). [[code]](https://github.com/zyWang-Power/UIERL) 
 - **TGARS** (Diffusion) [DCGF: Diffusion-Color-Guided Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10816000).
 - **TCSVT** (CNN) [See Through Water: Heuristic Modeling towards Color Correction for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10798483).
 - **Neurocomputing** (Hybrid) [LUIE: Learnable physical model-guided underwater image enhancement with bi-directional unsupervised domain adaptatio](https://www.sciencedirect.com/science/article/pii/S0925231224010579).
-- **JOE** (Hybrid) [UIE-SFIFormer: Underwater Image Enhancement Based on Physical-Guided Spatial鈥揊requency Interaction Transformer](https://ieeexplore.ieee.org/document/10805568).
+- **JOE** (Hybrid) [UIE-SFIFormer: Underwater Image Enhancement Based on Physical-Guided Spatial-Frequency Interaction Transformer](https://ieeexplore.ieee.org/document/10805568).
 - **ICVGIP** (CNN) [IDA-UIE: An Iterative Framework for Deep Network-based Degradation Aware Underwater Image Enhancement](https://dl.acm.org/doi/10.1145/3702250.3702252).
 - **ACCV** (Mamba) [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://openaccess.thecvf.com/content/ACCV2024/papers/Lin_PixMamba_Leveraging_State_Space_Models_in_a_Dual-Level_Architecture_for_ACCV_2024_paper.pdf). [[code]](https://github.com/weitunglin/pixmamba) 
 ## Year 2023
@@ -51,7 +52,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **ESWA** (Diffusion) [UIEDP: Boosting underwater image enhancement with diffusion prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389). [[project]](https://ddz16.github.io/) 
 - **EAAI** (Traditional) [HFM: A hybrid fusion method for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197623014033). [[code]](https://github.com/An-Shunmin/HFM) 
 - **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306).
-- **EAAI** (CNN) [Multi-view underwater image enhancement method via embedded fusion mechanism](https://www.sciencedirect.com/science/article/pii/S0952197623001306).
+- **CVPR** (CNN) [Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank](https://ieeexplore.ieee.org/document/10204411). [[code]](https://github.com/Huang-ShiRui/Semi-UIR) 
 - **C&G** (Transformer) [UDAformer: Underwater image enhancement based on dual attention transformer](https://www.sciencedirect.com/science/article/pii/S0097849323000109). [[code]](https://github.com/ShenZhen0502/UDAformer) 
 - **ACM-MM** (Diffusion) [Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy](https://dl.acm.org/doi/10.1145/3581783.3612378). [[code]](https://github.com/piggy2009/DM_underwater) 
 ## Year 2022
