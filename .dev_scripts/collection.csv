@@ -37,6 +37,9 @@ Year,Pub,Type,Title,URL,Code,Project
 2021,SPL,GAN,Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space,https://ieeexplore.ieee.org/document/9496260,,
 2021,IMAGE,CNN,UIECˆ2-Net: CNN-based Underwater Image Enhancement Using Two Color Space,https://www.sciencedirect.com/science/article/pii/S0923596521001004,https://github.com/BIGWangYuDong/UWEnhancement,
 2021,TGARS,Traditional,An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology,https://ieeexplore.ieee.org/document/9257110,https://github.com/bilityniu/cbm_tgrs,
+2021,Neurocomputing,Hybrid,IPMGAN: Integrating physical model and generative adversarial network for underwater image enhancement,https://www.sciencedirect.com/science/article/pii/S0925231220315678,,
+2021,JOE,Hybrid,Underwater Image Enhancement via Physical-Feedback Adversarial Transfer Learning,https://ieeexplore.ieee.org/document/9547341,,
+2021,TCSVT,Hybrid,Perceptual Underwater Image Enhancement With Deep Learning and Physical Priors,https://ieeexplore.ieee.org/document/9245532,,
 2022,TIP,Traditional,Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement,https://ieeexplore.ieee.org/document/9788535,https://github.com/Li-Chongyi/MMLE_code,https://li-chongyi.github.io/proj_MMLE
 2022,TIP,Traditional,Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors,https://ieeexplore.ieee.org/document/9854113,https://github.com/zhuangpeixian/HLRP,
 2022,JOE,Traditional,Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement,https://ieeexplore.ieee.org/document/9744022,https://github.com/Li-Chongyi/JOE2021_ACDC,
@@ -62,7 +65,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,TIP,GAN,Domain Adaptation for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10048777,https://github.com/zyWang-Power/TUDA,
 2023,TIP,Transformer,U-Shape Transformer for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10129222,https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement,https://bianlab.github.io/index.html
 2023,C&G,Transformer,UDAformer: Underwater image enhancement based on dual attention transformer,https://www.sciencedirect.com/science/article/pii/S0097849323000109,https://github.com/ShenZhen0502/UDAformer,
-2023,TIP,GAN,PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators,https://ieeexplore.ieee.org/document/10155564,https://github.com/rmcong/PUGAN_TIP2023,https://rmcong.github.io/proj_PUGAN.html
+2023,TIP,Hybrid,PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators,https://ieeexplore.ieee.org/document/10155564,https://github.com/rmcong/PUGAN_TIP2023,https://rmcong.github.io/proj_PUGAN.html
 2023,ICME,CNN,Transmission and Color-guided Network for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10219946,,
 2023,TCSVT,CNN,UIALN: Enhancement for Underwater Image With Artificial Light,https://ieeexplore.ieee.org/document/10019314,https://github.com/lilala0/UIALN,
 2023,EAAI,CNN,Multi-view underwater image enhancement method via embedded fusion mechanism,https://www.sciencedirect.com/science/article/abs/pii/S0952197623001306,,
@@ -70,12 +73,13 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,ACM-MM,Diffusion,Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy,https://dl.acm.org/doi/10.1145/3581783.3612378,https://github.com/piggy2009/DM_underwater,
 2023,ICRA,CNN,SyreaNet: A Physically Guided Underwater Image Enhancement Framework Integrating Synthetic and Real Images,https://ieeexplore.ieee.org/document/10161531,https://github.com/rockwenjj/syreanet,
 2023,CVPR,CNN,Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank,https://ieeexplore.ieee.org/document/10204411,https://github.com/Huang-ShiRui/Semi-UIR,
+2023,ESWA,Diffusion,UIEDP: Boosting underwater image enhancement with diffusion prior,https://www.sciencedirect.com/science/article/pii/S0957417424021389,,https://ddz16.github.io/
+2023,Electronics,Hybrid,Underwater Image Enhancement Method Based on Improved GAN and Physical Model,https://www.mdpi.com/2079-9292/12/13/2882,,
 2023,arXiv,Hybrid,WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond,https://arxiv.org/abs/2308.00931,,
 2023,arXiv,CNN,DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement,https://arxiv.org/abs/2312.06999,,
 2023,arXiv,CNN,IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater,https://arxiv.org/abs/2312.06955,,
 2023,arXiv,CNN,Physics-Aware Semi-Supervised Underwater Image Enhancement,https://arxiv.org/abs/2307.11470,,
 2023,arXiv,CNN,Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement,https://arxiv.org/abs/2308.11932,https://github.com/zhoujingchun03/SMDR-IS,
-2023,ESWA,Diffusion,UIEDP: Boosting underwater image enhancement with diffusion prior,https://www.sciencedirect.com/science/article/pii/S0957417424021389,,https://ddz16.github.io/
 2024,Neurocomputing,Hybrid,LUIE: Learnable physical model-guided underwater image enhancement with bi-directional unsupervised domain adaptatio,https://www.sciencedirect.com/science/article/pii/S0925231224010579,,
 2024,TMM,CNN,UIERL: Internal-External Representation Learning Network for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10496814/,https://github.com/zyWang-Power/UIERL,
 2024,ACCV,Mamba,PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement,https://openaccess.thecvf.com/content/ACCV2024/papers/Lin_PixMamba_Leveraging_State_Space_Models_in_a_Dual-Level_Architecture_for_ACCV_2024_paper.pdf,https://github.com/weitunglin/pixmamba,

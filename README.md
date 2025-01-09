@@ -40,8 +40,9 @@ Welcome to pull request to update or correct this collection. 🥰
 - **SPL** (Traditional) [Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement](https://ieeexplore.ieee.org/document/10065491). [[code]](https://github.com/Li-Chongyi/PCDE) 
 - **EAAI** (Traditional) [HFM: A hybrid fusion method for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0952197623014033). [[code]](https://github.com/An-Shunmin/HFM) 
 - **arXiv** (Hybrid) [WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond](https://arxiv.org/abs/2308.00931).
+- **TIP** (Hybrid) [PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators](https://ieeexplore.ieee.org/document/10155564). [[code]](https://github.com/rmcong/PUGAN_TIP2023)  [[project]](https://rmcong.github.io/proj_PUGAN.html) 
+- **Electronics** (Hybrid) [Underwater Image Enhancement Method Based on Improved GAN and Physical Model](https://www.mdpi.com/2079-9292/12/13/2882).
 - **TIP** (GAN) [Domain Adaptation for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10048777). [[code]](https://github.com/zyWang-Power/TUDA) 
-- **TIP** (GAN) [PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators](https://ieeexplore.ieee.org/document/10155564). [[code]](https://github.com/rmcong/PUGAN_TIP2023)  [[project]](https://rmcong.github.io/proj_PUGAN.html) 
 - **TCSVT** (Diffusion) [Speed-Up DDPM for Real-time Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10250851).
 - **JVCIR** (Diffusion) [Underwater image enhancement method based on denoising diffusion probabilistic model](https://www.sciencedirect.com/science/article/pii/S1047320323001761).
 - **ESWA** (Diffusion) [UIEDP: Boosting underwater image enhancement with diffusion prior](https://www.sciencedirect.com/science/article/pii/S0957417424021389). [[project]](https://ddz16.github.io/) 
@@ -76,6 +77,9 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TPAMI** (Traditional) [Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset](https://ieeexplore.ieee.org/document/9020130).
 - **TGARS** (Traditional) [An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology](https://ieeexplore.ieee.org/document/9257110). [[code]](https://github.com/bilityniu/cbm_tgrs) 
 - **EAAI** (Traditional) [Bayesian retinex underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S095219762100018X). [[code]](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) 
+- **TCSVT** (Hybrid) [Perceptual Underwater Image Enhancement With Deep Learning and Physical Priors](https://ieeexplore.ieee.org/document/9245532).
+- **Neurocomputing** (Hybrid) [IPMGAN: Integrating physical model and generative adversarial network for underwater image enhancement](https://www.sciencedirect.com/science/article/pii/S0925231220315678).
+- **JOE** (Hybrid) [Underwater Image Enhancement via Physical-Feedback Adversarial Transfer Learning](https://ieeexplore.ieee.org/document/9547341).
 - **SPL** (GAN) [Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space](https://ieeexplore.ieee.org/document/9496260).
 - **TIP** (CNN) [Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding](https://ieeexplore.ieee.org/document/9426457). [[code]](https://github.com/Li-Chongyi/Ucolor)  [[project]](https://li-chongyi.github.io/Proj_Ucolor.html) 
 - **IMAGE** (CNN) [UIEC藛2-Net: CNN-based Underwater Image Enhancement Using Two Color Space](https://www.sciencedirect.com/science/article/pii/S0923596521001004). [[code]](https://github.com/BIGWangYuDong/UWEnhancement) 
