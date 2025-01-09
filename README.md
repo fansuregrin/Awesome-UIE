@@ -22,6 +22,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **WACV** (Hybrid) [PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10484357).
 - **Neurocomputing** (Hybrid) [LUIE: Learnable physical model-guided underwater image enhancement with bi-directional unsupervised domain adaptatio](https://www.sciencedirect.com/science/article/pii/S0925231224010579).
 - **JOE** (Hybrid) [UIE-SFIFormer: Underwater Image Enhancement Based on Physical-Guided Spatial-Frequency Interaction Transformer](https://ieeexplore.ieee.org/document/10805568).
+- **TGARS** (GAN) [NPT-UL: An Underwater Image Enhancement Framework Based on Nonphysical Transformation and Unsupervised Learning](https://ieeexplore.ieee.org/document/10423039).
 - **arXiv** (Diffusion) [Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier](https://arxiv.org/abs/2405.16214). [[code]](https://github.com/OUCVisionGroup/CLIP-UIE)  [[project]](https://oucvisiongroup.github.io/CLIP-UIE.html/) 
 - **TMM** (Diffusion) [DiffUIE: Learning Latent Global Priors in Diffusion Models for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10812849).
 - **TGARS** (Diffusion) [DCGF: Diffusion-Color-Guided Framework for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10816000).
@@ -42,6 +43,8 @@ Welcome to pull request to update or correct this collection. 🥰
 - **arXiv** (Hybrid) [WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond](https://arxiv.org/abs/2308.00931).
 - **TIP** (Hybrid) [PUGAN: Physical Model-Guided Underwater Image Enhancement Using GAN With Dual-Discriminators](https://ieeexplore.ieee.org/document/10155564). [[code]](https://github.com/rmcong/PUGAN_TIP2023)  [[project]](https://rmcong.github.io/proj_PUGAN.html) 
 - **Electronics** (Hybrid) [Underwater Image Enhancement Method Based on Improved GAN and Physical Model](https://www.mdpi.com/2079-9292/12/13/2882).
+- **Displays** (Hybrid) [Underwater image co-enhancement based on physical-guided transformer interaction](https://www.sciencedirect.com/science/article/pii/S0141938223001385).
+- **ACM-MM** (Hybrid) [A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement](https://dl.acm.org/doi/abs/10.1145/3581783.3612323). [[code]](https://github.com/shiningZZ/GUPDM) 
 - **TIP** (GAN) [Domain Adaptation for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10048777). [[code]](https://github.com/zyWang-Power/TUDA) 
 - **TCSVT** (Diffusion) [Speed-Up DDPM for Real-time Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10250851).
 - **JVCIR** (Diffusion) [Underwater image enhancement method based on denoising diffusion probabilistic model](https://www.sciencedirect.com/science/article/pii/S1047320323001761).

@@ -75,6 +75,8 @@ Year,Pub,Type,Title,URL,Code,Project
 2023,CVPR,CNN,Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank,https://ieeexplore.ieee.org/document/10204411,https://github.com/Huang-ShiRui/Semi-UIR,
 2023,ESWA,Diffusion,UIEDP: Boosting underwater image enhancement with diffusion prior,https://www.sciencedirect.com/science/article/pii/S0957417424021389,,https://ddz16.github.io/
 2023,Electronics,Hybrid,Underwater Image Enhancement Method Based on Improved GAN and Physical Model,https://www.mdpi.com/2079-9292/12/13/2882,,
+2023,ACM-MM,Hybrid,A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement,https://dl.acm.org/doi/abs/10.1145/3581783.3612323,https://github.com/shiningZZ/GUPDM,
+2023,Displays,Hybrid,Underwater image co-enhancement based on physical-guided transformer interaction,https://www.sciencedirect.com/science/article/pii/S0141938223001385,,
 2023,arXiv,Hybrid,WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond,https://arxiv.org/abs/2308.00931,,
 2023,arXiv,CNN,DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement,https://arxiv.org/abs/2312.06999,,
 2023,arXiv,CNN,IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater,https://arxiv.org/abs/2312.06955,,
@@ -89,6 +91,7 @@ Year,Pub,Type,Title,URL,Code,Project
 2024,JOE,Hybrid,UIE-SFIFormer: Underwater Image Enhancement Based on Physical-Guided Spatial-Frequency Interaction Transformer,https://ieeexplore.ieee.org/document/10805568,,
 2024,TCSVT,CNN,See Through Water: Heuristic Modeling towards Color Correction for Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10798483,,
 2024,WACV,Hybrid,PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement,https://ieeexplore.ieee.org/document/10484357,,
+2024,TGARS,GAN,NPT-UL: An Underwater Image Enhancement Framework Based on Nonphysical Transformation and Unsupervised Learning,https://ieeexplore.ieee.org/document/10423039,,
 2024,arXiv,CNN,LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement,https://arxiv.org/abs/2406.14973,,
 2024,arXiv,Mamba,WaterMamba: Visual State Space Model for Underwater Image Enhancement,https://arxiv.org/abs/2405.08419,https://github.com/Guan-MS/WaterMamba,
 2024,arXiv,Review,A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning,https://arxiv.org/abs/2405.19684,https://github.com/YuZhao1999/UIE,
