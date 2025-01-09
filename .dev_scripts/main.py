@@ -2,12 +2,10 @@
 """
 import re 
 import os 
-import csv 
-from tqdm import tqdm 
+import csv  
 import argparse
-import functools 
 
-parser = argparse.ArgumentParser(description = 'What the program does')
+parser = argparse.ArgumentParser()
 parser.add_argument('-f', choices=['csv', 'md'], default='md')
 args = parser.parse_args()
 
@@ -59,7 +57,7 @@ def readme_to_csv():
                 papers.append(dict(title=title, url=url, pub=pub, year=year, project=project, code=code, type=type))
                 i += 1 
 
-    papers = sorted(papers, key=lambda x: (x['year'], x['pub'], x['type']), reverse=True)
+    papers = sorted(papers, key=lambda x: (x['year'], x['type'], x['pub']), reverse=True)
     for p in papers: 
         csv_writer.writerow([p['year'], p['pub'], p['type'], p['title'], p['url'], p['code'], p['project']])
     csvfile.close()
@@ -87,7 +85,7 @@ def csv_to_readme():
             papers[str(year)].append(p)
     
     for k, v in papers.items(): 
-        papers[k].sort(key=lambda x: (x['year'], x['pub'], x['type']), reverse=True)
+        papers[k].sort(key=lambda x: (x['year'], x['type'], x['pub']), reverse=True)
     
     message = {}
     # generate msg from parsed dict data
